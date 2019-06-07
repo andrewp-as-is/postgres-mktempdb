@@ -1,0 +1,15 @@
+{
+  "name": "postgres-mktempdb",
+  "version": "2019.5.22",
+  "description": "backup to S3",
+  "keywords": [
+    "backup",
+    "aws",
+    "s3"
+  ],
+  "homepage": "https://github.com/looking-for-a-job/postgres-mktempdb",
+  "license": "Unlicense",
+  "bin": {
+    "mktempdb": "./scripts/mktempdb"
+  }
+}
